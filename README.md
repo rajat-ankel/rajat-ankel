@@ -23,19 +23,12 @@
 
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-ankel&show_icons=true&locale=en&layout=compact" alt="rajat-ankel" width="500"/>
-</p>
 
 
-
-
-
-
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-ankel&" alt="rajat-ankel" width="500"/>
-</p>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-ankel&show_icons=true&locale=en&layout=compact" alt="rajat-ankel" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-ankel&" alt="rajat-ankel" width="400"/>
+</div>
 
 
 

@@ -23,19 +23,19 @@
 
 
 
-## GitHub Readme Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajat-ankel&show_icons=true&locale=en" alt="rajat-ankel" width="500"/>
 </p>
 
-## Top Languages
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-ankel&show_icons=true&locale=en&layout=compact" alt="rajat-ankel" width="500"/>
 </p>
 
-## GitHub Streak Stats
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-ankel&" alt="rajat-ankel" width="500"/>

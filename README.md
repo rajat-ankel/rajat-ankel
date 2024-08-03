@@ -23,6 +23,9 @@
 
 
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-ankel&show_icons=true&locale=en&layout=compact" alt="rajat-ankel" width="500"/>
+</p>
 
 
 
@@ -32,9 +35,6 @@
 
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-ankel&show_icons=true&locale=en&layout=compact" alt="rajat-ankel" width="500"/>
-</p>
 
 
 <p>

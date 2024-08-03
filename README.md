@@ -23,6 +23,6 @@
 
 
 <div style="display: flex; justify-content: left;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-ankel&show_icons=true&locale=en&layout=compact" alt="rajat-ankel" style="width: 400px; max-height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-ankel&show_icons=true&locale=en&layout=compact" alt="rajat-ankel" style="width: 400px; max-height: 150px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-ankel&" alt="rajat-ankel" style="width: 400px; max-height: 400px;"/>
 </div>

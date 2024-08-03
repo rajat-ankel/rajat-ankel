@@ -29,10 +29,6 @@
 
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat-ankel&show_icons=true&locale=en" alt="rajat-ankel" width="500"/>
-</p>
-
 
 
 

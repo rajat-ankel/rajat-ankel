@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Raat Ankel (/devil)](https://rajat-ankel.github.io)
+# Hi 👋 I'm [Rajat Ankel (/devil)](https://rajat-ankel.github.io)
 
 [![Discord](https://discord.c99.nl/widget/theme-3/573548532754153474.png)](https://discord.com/users/573548532754153474)
 

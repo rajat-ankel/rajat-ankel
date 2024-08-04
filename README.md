@@ -1,6 +1,6 @@
-# Hi 👋 I'm [Eito (/eitozx)❄️](https://eitozx.github.io)
+# Hi 👋 I'm [Raat Ankel (/devil)](https://rajat-ankel.github.io)
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=573548532754153474)
+![My Discord]([https://discord-readme-badge.vercel.app/api?id=573548532754153474](https://discord.c99.nl/widget/theme-3/573548532754153474.png)
 
 [![](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
 )](https://eitozx.com)

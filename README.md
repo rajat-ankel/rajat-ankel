@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Ankel</h1>
 <h3 align="center">Flutter Developer with AI Prompt Artistry and Ethical Hacking Expertise</h3>
-
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<573548532754153474>)
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=rajat-ankel&label=Profile%20views&color=0e75b6&style=flat"
         alt="rajat-ankel" /> </p>

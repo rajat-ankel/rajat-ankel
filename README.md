@@ -1,6 +1,9 @@
 # Hi 👋 I'm [Rajat Ankel (/devil)](https://rajat-ankel.github.io)
 
-[![Discord](https://discord.c99.nl/widget/theme-3/573548532754153474.png)](https://discord.com/users/573548532754153474)
+<a href="https://discord.com/users/573548532754153474" target="_blank">
+  <img src="https://discord.c99.nl/widget/theme-3/573548532754153474.png" width="400" height="200" />
+</a>
+
 
 
 [![rajatankel.work@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white

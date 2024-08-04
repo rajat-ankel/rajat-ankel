@@ -1,6 +1,6 @@
 # Hi 👋 I'm [Eito (/eitozx)❄️](https://eitozx.github.io)
 
-[![Discord](https://discord.c99.nl/widget/theme-3/1150051452220362782.png)](https://discord.com/users/1150051452220362782)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=573548532754153474)
 
 [![](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
 )](https://eitozx.com)
